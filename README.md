@@ -1,1 +1,3 @@
-# hello-name
+# About Me
+
+My name is Sumin Cho.
